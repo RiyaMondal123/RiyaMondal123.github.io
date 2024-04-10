@@ -359,10 +359,9 @@ a:focus {
 }
 
 .shop_section .box {
-  background-color: #f3bd6f;
   position: relative;
-  padding: 10px;
-  margin-top: 25px;
+  padding: 5px;
+  margin-top: 20px;
 }
 
 .shop_section .box a {
